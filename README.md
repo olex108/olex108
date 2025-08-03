@@ -4,6 +4,10 @@
 ![Image alt](https://github.com/olex108/olex108/blob/main/2025-08-03_12-09-16.png)
 
 
+<h1 align="center">My name is Alex and I am a student Python developer. I have always been hardworking and result-oriented.<a href="https://daniilshat.ru/" target="_blank">Alex</a> 
+
+
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
