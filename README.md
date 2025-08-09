@@ -1,4 +1,4 @@
-<h1 align="center">Alex Mosiychuk<a href="https://daniilshat.ru/" target="_blank">Alex</a> 
+<h1 align="center">Alex Mosiychuk</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![Image alt](https://github.com/olex108/olex108/blob/main/2025-08-03_12-09-16.png)
