@@ -1,5 +1,4 @@
-<h1 align="center">Alex Mosiychuk</a> 
-</h1>
+<h1 align="center">Alex Mosiychuk</a></h1>
 
 ![Image alt](https://github.com/olex108/olex108/blob/main/2025-08-03_12-09-16.png)
 
@@ -8,6 +7,7 @@
 My name is Alex and I am a student Python developer👨🏻‍💻 I have always been hardworking and result-oriented. I like mountain trekking ⛰️ , yoga 🧘🏽 and doing sports 🏃⛹️‍♂️.
 </br>  
 
+### Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
