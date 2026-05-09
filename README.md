@@ -1,6 +1,7 @@
 <h1 align="center">Alex Mosiychuk</a></h1>
 
-![Image alt](https://github.com/olex108/olex108/blob/main/2025-08-03_12-09-16.png)
+<img width="1741" height="983" alt="Header" src="https://github.com/user-attachments/assets/1cf134ec-621b-4a9a-8ba9-f98ef5873d8c" />
+
 
 <h3>Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><a href="https://daniilshat.ru/" target="_blank"></a></h3>
 
