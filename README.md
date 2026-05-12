@@ -5,7 +5,7 @@
 
 <h3>Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><a href="https://daniilshat.ru/" target="_blank"></a></h3>
 
-My name is Alex and I am a student Python developer👨🏻‍💻 I have always been hardworking and result-oriented. I like mountain trekking ⛰️ , yoga 🧘🏽 and doing sports 🏃⛹️‍♂️.
+My name is Alex and I am a Python developer👨🏻‍💻 I have always been hardworking and result-oriented. I like mountain trekking ⛰️ , yoga 🧘🏽 and doing sports 🏃⛹️‍♂️.
 </br>  
 
 <h3 align="left">Skills:</h3>
